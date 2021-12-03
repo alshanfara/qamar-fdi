@@ -8,6 +8,10 @@
         background-image: radial-gradient(farthest-corner,#8f2b24 0,#c52b2b 9%,#8f2b24 50%,#bb4a42 100%)!important;
 
 }
+.fl.u-pic{
+    height:50px!important;
+    width:50px!important;
+}
 
 .btn-primary {
     border: 1px solid #514848!important;
